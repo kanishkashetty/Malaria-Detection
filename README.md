@@ -15,3 +15,4 @@ Image classification using Convolutional Neural Networks (CNNs) with two differe
 1. Imported the required libraries.
 2. Created a Sequential model with Conv2D, MaxPooling2D, Flatten, and Dense layers.
 3. Compiled and trained this model similarly to the VGG19 model using the ImageDataGenerator.
+Finally, Flask web application to perform image classification using a pre-trained VGG19 model.
