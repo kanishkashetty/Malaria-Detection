@@ -1,5 +1,6 @@
 # Malaria-Detection-Deep Learning
 Image classification using Convolutional Neural Networks (CNNs) with two different architectures: VGG19 , simple Sequential model.
+
 **VGG19 Model:**
 Import ibraries from TensorFlow/Keras for building and training neural networks.
 Used VGG19 as a base model with pre-trained ImageNet weights and excluded the top layer (include_top=False).
